@@ -1,0 +1,6 @@
+{
+  "name": "JSON 순서도 시각화 도구",
+  "description": "사용자가 제공한 JSON 객체를 파싱하여 확대/축소 및 이동이 가능한 멋진 순서도로 구조를 시각화하는 대화형 웹 애플리케이션입니다.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
