@@ -5,10 +5,11 @@
 [![D3.js](https://img.shields.io/badge/D3.js-v7-F9A03C?logo=d3.js&logoColor=white)](https://d3js.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3-38B2AC?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-GitHub%20Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)](https://sigco3111.github.io/json-flow/)
 
 **JSON 순서도 시각화 도구**는 복잡한 JSON 데이터를 이해하기 쉬운 대화형 순서도로 변환해주는 강력한 웹 애플리케이션입니다. 데이터 구조를 시각적으로 탐색하고, 특정 정보를 빠르게 찾아내며, 결과를 이미지 파일로 저장하여 보고서나 프레젠테이션에 활용할 수 있습니다.
 
-실행 주소 : https://dev-canvas-pi.vercel.app/
+라이브 데모 : https://sigco3111.github.io/json-flow/
 
 ## ✨ 주요 기능
 
